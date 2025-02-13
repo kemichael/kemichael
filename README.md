@@ -12,10 +12,10 @@
 
 # Skills
 
-## Proguraming languages
+## Programming languages
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,jquery,vite,go,flutter" /> <br /><br />
 
-## tools
+## Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" /> <br /><br />
 
 ## Adobe
