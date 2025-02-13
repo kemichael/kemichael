@@ -10,8 +10,13 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=kemichael&theme=gruvbox)
 
-# Tech Stack(Languages and Flameworks)
+# Skills
+
+## Proguraming languages
 <img src="https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,jquery,vite,go,flutter" /> <br /><br />
 
-# Other tools
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,ae,ai,ps,pr,xd" /> <br /><br />
+## tools
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" /> <br /><br />
+
+## Adobe
+<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd" /> <br /><br />
