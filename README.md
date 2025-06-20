@@ -13,7 +13,7 @@
 # Skills
 
 ## Programming languages
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,jquery,vite,go,flutter" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,mysql,laravel,php,jquery,vite,go,flutter, python" /> <br /><br />
 
 ## Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" /> <br /><br />
