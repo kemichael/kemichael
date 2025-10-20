@@ -18,5 +18,5 @@
 ## Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,mysql" /> <br /><br />
 
-## Adobe
-<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd" /> <br /><br />
+## Adobe/Design
+<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd,figma" /> <br /><br />
