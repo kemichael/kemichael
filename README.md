@@ -7,6 +7,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kemichael&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kemichael&theme=gruvbox&utcOffset=9)
 
+
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=kemichael&theme=gruvbox)
 
@@ -20,3 +21,6 @@
 
 ## Adobe/Design
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd,figma" /> <br /><br />
+
+# Studying
+<img src="https://skillicons.dev/icons?i=react" /> <br /><br />
