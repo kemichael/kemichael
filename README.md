@@ -22,5 +22,5 @@
 ## Adobe/Design
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd,figma" /> <br /><br />
 
-# Studying
+## Studying
 <img src="https://skillicons.dev/icons?i=react" /> <br /><br />
