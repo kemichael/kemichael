@@ -14,10 +14,10 @@
 # Skills
 
 ## Programming languages
-<img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,jquery,vite,go,flutter,python" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,laravel,jquery,vite,go,flutter,python" /> <br /><br />
 
 ## Tools
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,mysql,notion,obsidian" /> <br /><br />
 
 ## Adobe/Design
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,xd,figma" /> <br /><br />
